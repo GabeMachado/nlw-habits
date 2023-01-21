@@ -26,6 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos, ele foi desenvolvido principalmente o frontend, onde os hábitos são salvos no localstorage. 
 
+- [Visite o projeto online](https://gabemachado.github.io/nlw-habits)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
